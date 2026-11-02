@@ -1,9 +1,9 @@
 import { products } from "./data/products"
-import ProductCard from "./components/ProductCard"
+import ProductCard from "./components/productCard"
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
-import Collections from "./components/Collections"
-import Promotions from "./components/Promotions"
+import Collections from "./components/collections"
+import Promotions from "./components/promotions"
 
 function App() {
   const categories = [
