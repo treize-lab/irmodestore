@@ -56,7 +56,7 @@ function Hero() {
           <div className="relative aspect-[4/5] overflow-hidden bg-neutral-900">
 
             <img
-              src="public/images/products/skull-03.jpeg"
+              src="/images/products/skull-03.jpeg"
               alt="IRMODESTORE Skull"
               className="h-full w-full object-cover transition duration-700 hover:scale-105"
             />
