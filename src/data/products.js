@@ -15,7 +15,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 2,
     name: "Skull 02",
@@ -27,7 +26,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 3,
     name: "Skull 03",
@@ -55,7 +53,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 5,
     name: "Cagoule 02",
@@ -67,7 +64,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 6,
     name: "Cagoule 03",
@@ -79,7 +75,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 7,
     name: "Cagoule 04",
@@ -88,6 +83,28 @@ export const products = [
     promoPrice: null,
     isPromo: false,
     image: "/images/products/cagoule-04.jpeg",
+    isNew: true,
+    stock: true,
+  },
+  {
+    id: 13,
+    name: "Cagoule 05",
+    category: "cagoules",
+    price: 7000,
+    promoPrice: null,
+    isPromo: false,
+    image: "/images/products/cagoule-05.jpeg",
+    isNew: true,
+    stock: true,
+  },
+  {
+    id: 14,
+    name: "Cagoule 06",
+    category: "cagoules",
+    price: 7000,
+    promoPrice: null,
+    isPromo: false,
+    image: "/images/products/cagoule-06.jpeg",
     isNew: true,
     stock: true,
   },
@@ -107,7 +124,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 9,
     name: "Nike Running Violet",
@@ -119,7 +135,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 10,
     name: "Nike Running Vert",
@@ -131,7 +146,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 11,
     name: "Nike Running Noir",
@@ -143,7 +157,6 @@ export const products = [
     isNew: true,
     stock: true,
   },
-
   {
     id: 12,
     name: "Nike Running Rose",
