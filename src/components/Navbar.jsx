@@ -12,7 +12,7 @@ const navLinks = [
 { label: "Collection", href: "#collection" },
 { label: "Skulls", href: "#skulls" },
 { label: "Cagoules", href: "#cagoules" },
-{ label: "Sports", href: "#sports" },
+{ label: "Streetwear", href: "#sports" },
 ]
 
 return ( <nav className="fixed left-0 right-0 top-0 z-50 border-b border-white/10 bg-black/90 backdrop-blur-xl">

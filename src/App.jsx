@@ -9,7 +9,7 @@ function App() {
   const categories = [
     { id: "skulls", title: "Skulls" },
     { id: "cagoules", title: "Cagoules" },
-    { id: "sports", title: "Sports", category: "maillots" },
+    { id: "sports", title: "Streetwear", category: "maillots" },
   ]
 
   return (
